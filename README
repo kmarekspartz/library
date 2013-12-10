@@ -1,0 +1,27 @@
+# The Library
+
+This is the MIT-licensed subset of
+[The Library](http://www.celador.mn/library/).
+
+
+## Deployment
+
+
+## Testing
+
+`nosetests tests`
+`pep8 ???`
+`pylint ???`
+`coverage ??`
+
+
+## TODO:
+
+- String-limit assertions in methods of models.
+- Tests for models.
+- Fill out models.
+- Tests for views.
+- Fill out views.
+- Email reminders.
+- Search for titles.
+
